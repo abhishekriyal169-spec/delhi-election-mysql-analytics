@@ -1,6 +1,0 @@
-DELIMITER $$
-
-CREATE TRIGGER validate_vote_time ...
-CREATE PROCEDURE constituency_turnout ...
-
-DELIMITER ;
